@@ -28,7 +28,7 @@ In Rodin:
 1. Go to **Help → Install New Software…**.
 2. In **Work with**, select the main Rodin update site  
    `http://rodin-b-sharp.sourceforge.net/updates`.
-   (different verion or Rodin may have different naming or multiple listings for this update site)
+   (different version of Rodin may have different naming or multiple listings for this update site)
 3. Under the category **Modelling Extensions**, select the **Theory** plug-in (or equivalent).
 4. Complete the installation and restart Rodin.
 
